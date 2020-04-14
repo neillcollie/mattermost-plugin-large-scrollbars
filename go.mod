@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/lieut-data/mattermost-plugin-wrapper-demo
 
 go 1.12
 

@@ -1,7 +1,7 @@
 {
-  "name": "plugin-starter",
-  "version": "0.0.1",
-  "description": "This plugin serves as a starting point for writing a Mattermost plugin.",
+  "name": "plugin-wrapper-demo",
+  "version": "0.1.0",
+  "description": "Illustrate how to inject CSS to wrap the Mattermost application absolutely positioned divs.",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --mode=production",
