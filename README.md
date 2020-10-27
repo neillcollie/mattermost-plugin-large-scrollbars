@@ -1,5 +1,5 @@
-# Plugin Wrapper Demo
+# Large Scrollbars Plugin
 
-This plugin serves as a starting point for how to inject CSS to wrap the Mattermost application with arbitrary content.
+Doubles the width of scrollbars to make it easier to use Mattermost on pen-based tablets
 
 ![screenshot](./demo_screenshot.png)

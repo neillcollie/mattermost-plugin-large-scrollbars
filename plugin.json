@@ -1,7 +1,7 @@
 {
-    "id": "com.mattermost.plugin-wrapper-demo",
-    "name": "Wrapper Demo",
-    "description": "Illustrate how to inject CSS to wrap the Mattermost application absolutely positioned divs.",
+    "id": "com.mattermost.plugin-large-scrollbars",
+    "name": "Large Scrollbars Plugin",
+    "description": "Doubles the width of scrollbars to make it easier to use Mattermost on pen-based tablets",
     "version": "0.1.0",
     "min_server_version": "5.12.0",
     "webapp": {
