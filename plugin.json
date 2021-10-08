@@ -1,9 +1,9 @@
 {
-    "id": "com.mattermost.plugin-large-scrollbars",
-    "name": "Large Scrollbars Plugin",
-    "description": "Doubles the width of scrollbars to make it easier to use Mattermost on pen-based tablets",
-    "version": "0.1.0",
-    "min_server_version": "5.12.0",
+    "id": "com.mattermost.plugin-ui-customise",
+    "name": "Customise UI Elements",
+    "description": "Plugin to remove 'files' button and search tip",
+    "version": "0.2.0",
+    "min_server_version": "5.31.0",
     "webapp": {
         "bundle_path": "webapp/dist/main.js"
     },
