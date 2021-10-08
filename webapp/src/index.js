@@ -11,14 +11,15 @@ export default class Plugin {
             width: 16px !important;
           }
 
-          sidebar-left .scrollbar--view ~ div {
+	  #sidebar-left .scrollbar--view ~ div {
             width: 26px !important;
           }
 
-          sidebar-right .scrollbar--view ~ div {
+          #sidebar-right .scrollbar--view ~ div {
             width: 26px !important;
             opacity: 1 !important;
           }
+	  #channelHeaderFilesButton {display: none;}
         `);
     }
 
