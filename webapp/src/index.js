@@ -7,19 +7,8 @@ export default class Plugin {
         // @see https://developers.mattermost.com/extend/plugins/webapp/reference/
 
         addStyle('customized-css', `
-          .post-list__dynamic::-webkit-scrollbar {
-            width: 16px !important;
-          }
-
-	  #sidebar-left .scrollbar--view ~ div {
-            width: 26px !important;
-          }
-
-          #sidebar-right .scrollbar--view ~ div {
-            width: 26px !important;
-            opacity: 1 !important;
-          }
 	  #channelHeaderFilesButton {display: none;}
+	  .search-hint__search-type-selector {display: none;}
         `);
     }
 
