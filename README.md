@@ -1,5 +1,5 @@
-# Large Scrollbars Plugin
+# Customise UI 
 
-Doubles the width of scrollbars to make it easier to use Mattermost on pen-based tablets
+This specific plugin disables the 'Channel files' button and search box text.
 
-![screenshot](./demo_screenshot.png)
+![screenshot](./demo_screenshot.gif)
