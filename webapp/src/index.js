@@ -8,7 +8,8 @@ export default class Plugin {
 
         addStyle('customized-css', `
 	  #channelHeaderFilesButton {display: none;}
-	  .search-hint__search-type-selector {display: none;}
+	  #icon icon-file-document-outline {display: none;}
+	  #searchbar-help-popup > div.popover-content > div > div.button-container > button:nth-child(2) {display: none;}
         `);
     }
 
