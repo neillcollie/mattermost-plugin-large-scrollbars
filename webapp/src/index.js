@@ -10,6 +10,11 @@ export default class Plugin {
 	  #channelHeaderFilesButton {display: none;}
 	  #icon icon-file-document-outline {display: none;}
 	  #searchbar-help-popup > div.popover-content > div > div.button-container > button:nth-child(2) {display: none;}
+	  #sbr-searchbar-help-popup {display: none;}
+	  #sbr-searchbar-help-popup > div.popover-content > div > div.button-container {display: none;}
+	  #searchContainer > div.MessagesOrFilesSelector {display: none;}
+	  #searchContainer > div.MessagesOrFilesSelector > div.buttons-container {display: none;}
+	  #searchbar-help-popup > div.popover-content > div {display: none;}
         `);
     }
 
